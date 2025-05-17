@@ -3,9 +3,9 @@
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180px" src="https://github-readme-stats.vercel.app/api?username=AndreyRafael1&show_icons=true&theme=dark" />
-    <img scr="https://github.com/user-attachments/assets/acda5d62-8a6e-405f-a765-bfb1020c5fd7" />
   </a>
 </div>
+
 
 
 ## Minhas skills
