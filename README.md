@@ -4,6 +4,8 @@
 
 Sou estudante de Engenharia de Software no quarto semestre pela UCSAl, com foco no desenvolvimento de soluções eficientes e bem estruturadas. Possuo experiência acadêmica principalmente com a linguagem Java e estou em constante aprimoramento técnico. Atualmente, também curso Programação Full Stack na Infinity School, onde desenvolvi habilidades em Python, HTML, CSS e JavaScript. Meu objetivo é consolidar e expandir meus conhecimentos para atuar no desenvolvimento de software de forma inovadora e eficaz.
 
+I am a Software Engineering student in my fourth semester at UCSAl, focused on developing efficient and well-structured solutions. I have academic experience primarily with the Java programming language and am constantly improving my technical skills. Currently, I am also studying Full Stack Programming at Infinity School, where I have developed skills in Python, HTML, CSS, and JavaScript. My goal is to consolidate and expand my knowledge to work in software development in an innovative and effective way.
+
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180px" src="https://github-readme-stats.vercel.app/api?username=AndreyRafael1&show_icons=true&theme=dark" />
