@@ -6,10 +6,9 @@ Sou estudante de Engenharia de Software no quarto semestre pela UCSAl, com foco 
 
 I am a Software Engineering student in my fourth semester at UCSAl, focused on developing efficient and well-structured solutions. I have academic experience primarily with the Java programming language and am constantly improving my technical skills. Currently, I am also studying Full Stack Programming at Infinity School, where I have developed skills in Python, HTML, CSS, and JavaScript. My goal is to consolidate and expand my knowledge to work in software development in an innovative and effective way.
 
+
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=AndreyRafael1&show_icons=true&theme=dark" />
-  </a>
+  <img width="500" height="493" alt="Image" src="https://github.com/user-attachments/assets/80351467-0055-45e8-9a18-b53fa6a92bc2" />  
 </div>
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-rafael-4a8a0b334/)
